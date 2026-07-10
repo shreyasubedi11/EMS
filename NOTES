@@ -1,0 +1,9 @@
+if you transfer folder to next folder it may be inactive for that
+py -m pip freeze
+py -m pip install django-tinymce -use this
+py -m pip install python-decouple
+
+
+py manage.py createsuperuser
+username = shreya@@
+password = shreya
