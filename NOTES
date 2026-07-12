@@ -1,9 +1,26 @@
 if you transfer folder to next folder it may be inactive for that
 py -m pip freeze
-py -m pip install django-tinymce -use this
+py -m pip install django-tinymce 
 py -m pip install python-decouple
+ 
+ use | pip -m pip | (when it says pip is not recognize)
 
-
-py manage.py createsuperuser
+py manage.py createsuperuser(database)
 username = shreya@@
-password = shreya
+password = " "
+
+this ip address
+(192.168.100.117:8000')
+username :shreya@@
+password : p******11
+new-password : 1*********0as
+
+python anywhere account info 
+username: shreya11
+password: a************p
+
+
+
+
+forgot password documentation:
+https://django-tutorial.dev/course/django-for-beginners/how-to/reset-password-in-django/
